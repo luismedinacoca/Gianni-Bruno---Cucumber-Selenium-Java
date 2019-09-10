@@ -1,6 +1,5 @@
 package Step_Definitions;
 
-import cucumber.api.PendingException;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.And;
@@ -64,7 +63,6 @@ public class Login {
     @And("^User enters a valid password$")
     public void user_enters_a_valid_password() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
-        //throw new PendingException();
         WebElement pwdTextfield = driver.findElement(By.id("password"));
         pwdTextfield.sendKeys("Password321!");
     }

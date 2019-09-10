@@ -8,8 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin={"pretty",
                 "json:target\\cucumber_json_reports\\home-page.json",
-                "html:target\\home-page-html",
-                "com.cucumber.listener.ExtentCucumberFormatter:target/report.html"},
+                "html:target\\home-page-html"},
         features={"D:\\Programming\\[Cucumber]\\Gianni Bruno - Cucumber Selenium Java\\Section06\\Section06_lecture35\\src\\test\\java\\Features"},
         glue={"Step_Definitions"},
         monochrome = true

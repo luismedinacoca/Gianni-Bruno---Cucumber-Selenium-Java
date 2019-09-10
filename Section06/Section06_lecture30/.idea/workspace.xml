@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08dba8e4-ed87-4ecf-aeb1-adbe4d98785a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/Section06_lecture35.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Runners/Main_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Step_Definitions/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/Section06_lecture35_withExtendFomatter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/src/test/java/Features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/src/test/java/Resources/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/src/test/java/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/src/test/java/Resources/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/src/test/java/Resources/operadriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/src/test/java/Resources/operadriver01.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/src/test/java/Runners/Main_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section06_lecture35_withExtendFomatter/src/test/java/Step_Definitions/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Runners/Main_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Runners/Main_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Step_Definitions/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Step_Definitions/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/target/cucumber_json_reports/home-page.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/target/cucumber_json_reports/home-page.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/target/home-page-html/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/target/home-page-html/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/target/test-classes/Runners/Main_Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/target/test-classes/Runners/Main_Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/target/test-classes/Step_Definitions/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/target/test-classes/Step_Definitions/Login.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -88,8 +100,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1374" />
-    <option name="y" value="-8" />
+    <option name="x" value="-1521" />
+    <option name="y" value="172" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
@@ -101,8 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,6 +150,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,6 +224,7 @@
       <updated>1567982040517</updated>
       <workItem from="1567982043102" duration="6648000" />
       <workItem from="1568033535520" duration="3654000" />
+      <workItem from="1568118542316" duration="688000" />
     </task>
     <servers />
   </component>
@@ -248,12 +261,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10302000" />
+    <option name="totallyTimeSpent" value="10990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20347957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

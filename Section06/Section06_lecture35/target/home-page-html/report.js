@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5041544647,
+  "duration": 4887340587,
   "status": "passed"
 });
 formatter.scenario({
@@ -52,46 +52,46 @@ formatter.match({
   "location": "Login.user_navigate_to_stackoverflow_website()"
 });
 formatter.result({
-  "duration": 2538994343,
+  "duration": 10940492331,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_clicks_on_the_login_button_on_homepage()"
 });
 formatter.result({
-  "duration": 3696197059,
+  "duration": 4764081854,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_enters_a_valid_username()"
 });
 formatter.result({
-  "duration": 136818625,
+  "duration": 126107879,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_enters_a_valid_password()"
 });
 formatter.result({
-  "duration": 79574758,
+  "duration": 109112085,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_clicks_on_the_login_button()"
 });
 formatter.result({
-  "duration": 7065798712,
+  "duration": 7067141477,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_should_be_taken_to_the_successful_login_page()"
 });
 formatter.result({
-  "duration": 3744538401,
+  "duration": 5890675286,
   "status": "passed"
 });
 formatter.after({
-  "duration": 3863057254,
+  "duration": 3859091721,
   "status": "passed"
 });
 });
