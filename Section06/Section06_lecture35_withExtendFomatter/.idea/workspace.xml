@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28bbd5c9-a4c6-43b5-a23b-a05dfbea32a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section06_lecture35_withExtendFomatter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Resources/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Resources/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Resources/operadriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Resources/operadriver01.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Runners/Main_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Step_Definitions/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture30/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture30/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Runners/Main_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Runners/Main_Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Step_Definitions/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/src/test/java/Step_Definitions/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/target/cucumber_json_reports/home-page.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/target/cucumber_json_reports/home-page.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/target/home-page-html/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/target/home-page-html/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/target/test-classes/Runners/Main_Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/target/test-classes/Runners/Main_Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section06_lecture35/target/test-classes/Step_Definitions/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Section06_lecture35/target/test-classes/Step_Definitions/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runners/Main_Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runners/Main_Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Step_Definitions/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Step_Definitions/Login.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,21 +16,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1558">
-              <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+              <folding>
+                <element signature="n#build#0;n#project#0;n#!!top" />
+                <element signature="n#reporting#0;n#project#0;n#!!top" />
+                <element signature="n#dependencies#0;n#project#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/report_ExtendCucumberFormatter.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Features/Login.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -61,20 +51,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Step_Definitions/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
+            <state relative-caret-position="220">
               <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Runners/Main_Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="40">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -97,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Features/Login.feature" />
         <option value="$PROJECT_DIR$/src/test/java/Step_Definitions/Login.java" />
         <option value="$PROJECT_DIR$/src/test/java/Runners/Main_Runner.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -109,8 +97,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1521" />
-    <option name="y" value="172" />
+    <option name="x" value="-1374" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
@@ -122,8 +110,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,10 +162,19 @@
             <path>
               <item name="Section06_lecture35_withExtendFomatter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Section06_lecture35_withExtendFomatter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Step_Definitions" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Section06_lecture35_withExtendFomatter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section06_lecture35_withExtendFomatter" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumber_json_reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Section06_lecture35_withExtendFomatter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Section06_lecture35_withExtendFomatter" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="home-page-html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,7 +186,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/Resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -244,13 +241,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D:/Programming/[Cucumber]/Gianni Bruno - Cucumber Selenium Java/Section06/Section06_lecture35_withExtendFomatter/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Section06_lecture35_withExtendFomatter" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Cucumber java.Feature: Login" />
       <item itemvalue="JUnit.Main_Runner" />
+      <item itemvalue="TestNG.D:/Programming/[Cucumber]/Gianni Bruno - Cucumber Selenium Java/Section06/Section06_lecture35_withExtendFomatter/testng.xml" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Main_Runner" />
+        <item itemvalue="TestNG.D:/Programming/[Cucumber]/Gianni Bruno - Cucumber Selenium Java/Section06/Section06_lecture35_withExtendFomatter/testng.xml" />
         <item itemvalue="Cucumber java.Feature: Login" />
       </list>
     </recent_temporary>
@@ -267,19 +276,12 @@
       <option name="presentableId" value="Default" />
       <updated>1568118721651</updated>
       <workItem from="1568118724742" duration="3471000" />
+      <workItem from="1568124427279" duration="517000" />
+      <workItem from="1568128681888" duration="2988000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_Runner - 2019.09.10 at 10h 10m 09s.xml">
-      <configuration name="Main_Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_Runner - 2019.09.10 at 10h 12m 10s.xml">
-      <configuration name="Main_Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_Runner - 2019.09.10 at 10h 13m 32s.xml">
-      <configuration name="Main_Runner" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main_Runner - 2019.09.10 at 10h 17m 01s.xml">
       <configuration name="Main_Runner" configurationId="JUnit" />
     </history-entry>
@@ -301,52 +303,91 @@
     <history-entry file="Main_Runner - 2019.09.10 at 10h 24m 55s.xml">
       <configuration name="Main_Runner" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="D__Programming_[Cucumber]_Gianni_Bruno_-_Cucumber_Selenium_Java_Section06_Section06_lecture35_withExtendFomatter_testng_xml - 2019.09.10 at 12h 19m 38s.xml">
+      <configuration name="D:/Programming/[Cucumber]/Gianni Bruno - Cucumber Selenium Java/Section06/Section06_lecture35_withExtendFomatter/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Main_Runner - 2019.09.10 at 12h 20m 17s.xml">
+      <configuration name="Main_Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_Runner - 2019.09.10 at 12h 25m 05s.xml">
+      <configuration name="Main_Runner" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3471000" />
+    <option name="totallyTimeSpent" value="6976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22012103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.5499232" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23195085" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04608295" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.5499232" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Step_Definitions/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/Main_Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/report_ExtendCucumberFormatter.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="146" column="21" selection-start-line="146" selection-start-column="21" selection-end-line="146" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+            <element signature="n#reporting#0;n#project#0;n#!!top" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -354,23 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Step_Definitions/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Runners/Main_Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
